@@ -8,7 +8,7 @@ To analyse sales data from multiple store location in Abuja, Nigeria with the go
 
 ##Data set used:
 
-https://hobarkinternational-my.sharepoint.com/personal/terungwa_ubi_hobarkintl_com/Documents/UBI/RETAIL%20SALES%20ANALYSIS.xlsx?web=1
+https://hobarkinternational-my.sharepoint.com/:f:/g/personal/terungwa_ubi_hobarkintl_com/IgA1pVt6qtnrS6SOZki3mEUzATfJXgWs0T096LuEWYFkNiU?e=Yay9BB
 
 ##Questions:
 
