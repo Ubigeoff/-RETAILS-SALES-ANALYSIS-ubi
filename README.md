@@ -3,9 +3,13 @@
 ##Project Objective
 To analyse sales data from multiple store location in Abuja, Nigeria with the goal of uncovering key business insights related to Revenue generation, profitability, discount strategies and customers behaviour ultimately for improved performance.
 ##Data set used:
+
 https://hobarkinternational-my.sharepoint.com/personal/terungwa_ubi_hobarkintl_com/Documents/UBI/RETAIL%20SALES%20ANALYSIS.xlsx?web=1
+
 ##Questions:
+
 •	Which product category has the highest profit margin?
+
 •	Which store location generates the most revenue?
 •	How does customers type affect average discount?
 •	Between online and offline sales, which is more profitable?
@@ -16,11 +20,16 @@ https://hobarkinternational-my.sharepoint.com/personal/terungwa_ubi_hobarkintl_c
 •	Product category contribution to total profit and margin
 •	Effect of discounts on customers behaviour 
 •	Use of DAX for calculated fields (profit, margin%, Discount%)
+
 ##Dashboards 
+
 <img width="1317" height="735" alt="Screenshot 2026-02-19 113137" src="https://github.com/user-attachments/assets/b726e0f6-c272-4fbb-b1b2-2c039f58fd45" />
 <img width="1316" height="750" alt="Screenshot 2026-02-19 113118" src="https://github.com/user-attachments/assets/f0ac61bb-5afa-42c0-a77b-64d018646b4d" />
+
 ##Procedures
+
 Data preparation:
+
 •	Two raw tables were used; sales and product
 •	Uncalculated field like profit margin and discount % were added using DAX
 ##Data modelling
