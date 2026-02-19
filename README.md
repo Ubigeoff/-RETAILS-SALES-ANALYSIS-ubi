@@ -7,9 +7,8 @@
 To analyse sales data from multiple store location in Abuja, Nigeria with the goal of uncovering key business insights related to Revenue generation, profitability, discount strategies and customers behaviour ultimately for improved performance.
 
 ##Data set used:
-
-https://hobarkinternational-my.sharepoint.com/:f:/g/personal/terungwa_ubi_hobarkintl_com/IgA1pVt6qtnrS6SOZki3mEUzATfJXgWs0T096LuEWYFkNiU?e=Yay9BB
-
+https://hobarkinternational-my.sharepoint.com/personal/terungwa_ubi_hobarkintl_com/Documents/UBI/RETAIL%20SALES%20ANALYSIS.xlsx?web=1
+"C:\Users\TerungwaUbi\OneDrive - Hobark International Inc\Documents\RETAIL SALES ANALYSIS.pbix"
 ##Questions:
 
 •	Which product category has the highest profit margin?
